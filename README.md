@@ -1,4 +1,4 @@
-# Project Title: Analyzing Credit Card Defaults with Power BI Desktop
+# Analyzing Credit Card Defaults with Power BI Desktop
 
 ## Overview
 This project explores the analysis of credit card default data using Microsoft Power BI Desktop. Power BI Desktop is a powerful tool for data visualization and analysis, allowing users to import, transform, and visualize data to gain insights and make informed decisions. Through this project, we delve into the process of importing, transforming, and visualizing credit card default data to uncover patterns and trends.
